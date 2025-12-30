@@ -1,6 +1,6 @@
 ---
 name: read-guides
-description: Instructions for checking the available guides in the ai-4-space repository and reading them.
+description: Instructions for checking the available guides in the ai4space repository and reading them.
 ---
 # Read Guides
 

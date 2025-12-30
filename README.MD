@@ -1,4 +1,4 @@
-# ai-4-space
+# ai4space
 
 **Welcome to the starting point of your lunar mission.**
 
@@ -9,7 +9,7 @@
 Use promt
 
 ```text
-Help me build lunar simulations using LunCoSim. Context: https://github.com/LunCoSim/ai-4-space + https://github.com/LunCoSim/lunco-sim
+Help me build lunar simulations using LunCoSim. Context: https://github.com/LunCoSim/ai4space + https://github.com/LunCoSim/lunco-sim
 ```
 
 ### For Humans (Full Prompt)
@@ -24,7 +24,7 @@ Please help me:
 3. Guide me through using AI-native code editors to implement my ideas in the simulator.
 
 Reference these repositories for context:
-- Skills & Tutorial: https://github.com/LunCoSim/ai-4-space
+- Skills & Tutorial: https://github.com/LunCoSim/ai4space
 - Simulator Core: https://github.com/LunCoSim/lunco-sim
 ```
 

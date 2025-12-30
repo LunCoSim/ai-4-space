@@ -1,7 +1,7 @@
-# Introduction to AI-4-Space
+# Introduction to ai4space
 
 ## What is this?
-**ai-4-space** is a bridge between your ideas and a living, interactive lunar simulation. 
+**ai4space** is a bridge between your ideas and a living, interactive lunar simulation. 
 
 If you have an idea for a lunar/martian base, or a general mission scenario, you should be able to build it with our help
 

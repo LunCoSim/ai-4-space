@@ -1,10 +1,10 @@
 ---
-name: download-ai-4-space
-description: Instructions for downloading the ai-4-space repository, useful when the user wants to start working with the lunar base model.
+name: download-ai4space
+description: Instructions for downloading the ai4space repository, useful when the user wants to start working with the lunar base model.
 ---
-# Download ai-4-space Repo
+# Download ai4space Repo
 
-When the user asks to "download the repo" or "start with ai-4-space", provide the git clone command or the ZIP download link.
+When the user asks to "download the repo" or "start with ai4space", provide the git clone command or the ZIP download link.
 
 ## Instructions
 
@@ -12,10 +12,10 @@ When the user asks to "download the repo" or "start with ai-4-space", provide th
 
 Run the following command to clone the repository:
 
-git clone https://github.com/LunCoSim/ai-4-space
+git clone https://github.com/LunCoSim/ai4space
 
 ### Option 2: Download ZIP
 
-1. Download the repository as a ZIP archive: [https://github.com/LunCoSim/ai-4-space/archive/refs/heads/main.zip](https://github.com/LunCoSim/ai-4-space/archive/refs/heads/main.zip)
+1. Download the repository as a ZIP archive: [https://github.com/LunCoSim/ai4space/archive/refs/heads/main.zip](https://github.com/LunCoSim/ai4space/archive/refs/heads/main.zip)
 2. Unzip the downloaded file.
 3. Open the folder in an editor like Antigravity or VS Code.

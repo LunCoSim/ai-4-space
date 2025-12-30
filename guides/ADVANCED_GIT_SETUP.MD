@@ -48,7 +48,7 @@ Once you are set up, here is how you save your work:
 
 1.  **Clone** (Download a repo for the first time):
     ```bash
-    git clone git@github.com:LunCoSim/ai-4-space.git
+    git clone git@github.com:LunCoSim/ai4space.git
     ```
 2.  **Add** (Tell Git which files to save):
     ```bash

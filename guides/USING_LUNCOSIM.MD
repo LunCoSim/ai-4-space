@@ -181,7 +181,7 @@ Now that you understand the basics:
 
 ## Need Help?
 
-- **AI Assistance**: Use the [ai-4-space repository](https://github.com/LunCoSim/ai-4-space) to give your AI the knowledge to help you
+- **AI Assistance**: Use the [ai4space repository](https://github.com/LunCoSim/ai4space) to give your AI the knowledge to help you
 - **Documentation**: Check the [LunCoSim Repository](https://github.com/LunCoSim/lunco-sim) for technical details
 - **Community**: Join discussions and share your creations
 

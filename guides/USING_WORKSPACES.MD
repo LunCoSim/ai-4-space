@@ -1,7 +1,7 @@
 # Using Workspaces
 
 When working on LunCoSim, you need **two repositories** open at the same time:
-- **ai-4-space**: Guides, skills, and tutorials
+- **ai4space**: Guides, skills, and tutorials
 - **lunco-sim**: The actual simulation code
 
 A **workspace** lets you open both folders in one window so the AI can see and work with both.
@@ -12,7 +12,7 @@ A **workspace** lets you open both folders in one window so the AI can see and w
 
 ### VS Code / Cursor
 
-1. **File → Open Folder** → Select `ai-4-space`
+1. **File → Open Folder** → Select `ai4space`
 2. **File → Add Folder to Workspace** → Select `lunco-sim`
 3. **File → Save Workspace As** → Save as `lunco-project.code-workspace`
 
@@ -28,7 +28,7 @@ IDEs detect workspaces automatically when you have multiple folders open. Just u
 
 **Tell the AI which repository:**
 - ❌ "Add a new guide about rovers"
-- ✅ "Add a new guide about rovers to ai-4-space"
+- ✅ "Add a new guide about rovers to ai4space"
 
 **Each repository has its own Git:**
 - Commit changes to each repository separately
