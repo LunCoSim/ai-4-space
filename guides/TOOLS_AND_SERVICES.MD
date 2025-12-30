@@ -30,7 +30,13 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **Why use it**: Never lose important details from meetings. Create a searchable archive of all project conversations.
 * **Guide**: [How to use Fathom for meetings](USING_FATHOM.MD)
 
-## 6. GitHub (Advanced)
+## 6. n8n (The Automation Engine)
+* **What it is**: A workflow automation tool that connects different services and automates repetitive tasks.
+* **Role**: Automate social media posts, meeting notes, data monitoring, and integrations between all your tools.
+* **Why use it**: Think in data flow instead of manual work. Automate everything from daily reports to team notifications.
+* **Guide**: [How to use n8n for automation](USING_N8N.MD)
+
+## 7. GitHub (Advanced)
 * **What it is**: A platform to save and share your work.
 * **Role**: If you want to backup your lunar base or work on it with a team, you will use GitHub.
 * **Warning**: This requires some technical setup (SSH keys).
