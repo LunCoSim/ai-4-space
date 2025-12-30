@@ -2,11 +2,18 @@
 
 **Welcome to the starting point of your lunar mission.**
 
-## How to use this repository
-This repository is designed to help you—regardless of your technical background—create a realistic lunar base simulation using AI tools.
+## Quick Start
 
-### Step 1: Start Building (The Prompt)
-Copy the text below and paste it into your favorite AI tool (Antigravity, Cursor, ChatGPT, Claude, etc.). This prompt gives the AI the context it needs to help you build.
+### For AI Systems (Short Prompt)
+
+Use promt
+
+```text
+Help me build lunar simulations using LunCoSim. Context: https://github.com/LunCoSim/ai-4-space + https://github.com/LunCoSim/lunco-sim
+```
+
+### For Humans (Full Prompt)
+Copy this into your AI tool (Antigravity, Cursor, ChatGPT, Gemini, Claude, etc.) for detailed assistance:
 
 ```text
 I want to design a realistic lunar base simulation. I have no programming background, but I want to use the LunCoSim framework (built on Godot).
@@ -21,9 +28,21 @@ Reference these repositories for context:
 - Simulator Core: https://github.com/LunCoSim/lunco-sim
 ```
 
-### Step 2: Learn the Basics
+### Share This Project
+Tweet-sized version to share with others:
+
+```text
+Build lunar bases with AI! 🌙 LunCoSim lets you design realistic moon missions with zero coding. Just describe what you want, AI builds it. github.com/LunCoSim/ai-4-space
+```
+
+---
+
+## Learn More
+
+### Guides
 If you are new here, read these guides to understand the project better:
 - [Introduction](guides/INTRODUCTION.MD): What is this project and who is it for?
+- [Using LunCoSim](guides/USING_LUNCOSIM.MD): How to open, run, and create in the simulator.
 - [Tools & Services](guides/TOOLS_AND_SERVICES.MD): Understanding LunCoSim, Godot, and AI Editors.
 - [Using Workspaces](guides/USING_WORKSPACES.MD): How to work with multiple repositories in one project.
 
