@@ -40,6 +40,7 @@ If you are new here, read these guides to understand the project better:
 - [Tools & Services](guides/TOOLS_AND_SERVICES.MD): Understanding LunCoSim, Godot, and AI Editors.
 - [Using Workspaces](guides/USING_WORKSPACES.MD): How to work with multiple repositories in one project.
 - [Using Wallets](guides/USING_WALLETS.MD): Setting up and using crypto wallets (MetaMask, Rabby, Phantom).
+- [Using Safe](guides/USING_SAFE.MD): Multi-signature security and global coordination for teams.
 
 ---
 

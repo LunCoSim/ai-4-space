@@ -3,6 +3,9 @@
 Ethereum Virtual Machine (EVM) compatible chains use the same address format (`0x...`).
 
 ## Wallets
+- **[Safe](https://safe.global)**:
+  - *Best Feature*: Multisig security (requires multiple people to sign).
+  - *Management*: Smart contract based, perfect for long-term storage and teams.
 - **[Rabby](https://rabby.io)**: 
   - *Best Feature*: Pre-transaction security checks.
   - *Management*: Handles dozens of chains automatically.

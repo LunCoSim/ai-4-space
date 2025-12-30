@@ -18,6 +18,7 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **Examples**: Antigravity, Cursor, VS Code with AI plugins.
 * **Role**: This is your interface. instead of writing code manually, you chat with these editors. You tell them "I want to add a solar panel array to the north ridge," and they write the code for Godot to make it happen.
 * **Why use them**: They make the "how" easy, so you can focus on the "what".
+* **Guide**: [How to use Workspaces](USING_WORKSPACES.MD) (Crucial for managing multiple repositories).
 
 ## 4. Blender (The Workshop)
 * **What it is**: A 3D modeling tool.
@@ -37,13 +38,24 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **Why use it**: Think in data flow instead of manual work. Automate everything from daily reports to team notifications.
 * **Guide**: [How to use n8n for automation](USING_N8N.MD)
 
-## 7. Crypto Wallets (The Key)
-* **What it is**: Your digital passport for blockchain interactions.
-* **Role**: Used for signing transactions, managing assets, and identifying yourself in decentralized applications.
+## 7. Crypto Wallets & Safe (The Keys)
+* **What it is**: Your digital identity and security layer for global collaboration.
+* **Role**: Used for signing transactions, managing assets, and co-managing project funds with a global team.
 * **Wallets**: Rabby (EVM), MetaMask (EVM), Phantom (Solana).
-* **Guide**: [How to use Wallets](USING_WALLETS.MD)
+* **Safe (Multisig)**: The standard for team treasuries and global coordination.
+* **Guides**: 
+    * [How to use Wallets](USING_WALLETS.MD)
+    * [How to use Safe](USING_SAFE.MD) (For teams & high security)
 
-## 8. GitHub (Advanced)
+## 8. Blockchain Services
+* **What they are**: Tools to move and manage assets across different networks.
+* **Bridging & Swapping**: Move tokens between chains (e.g., Ethereum to Base) or swap one token for another.
+* **Networks**: Different "digital worlds" where projects live (Base, Polygon, Solana).
+* **Guides**:
+    * [Bridging & Swapping Guide](BRIDGING_SWAPPING.MD)
+    * [Blockchain Networks Overview](BLOCKCHAIN_NETWORKS.MD)
+
+## 9. GitHub (Advanced)
 * **What it is**: A platform to save and share your work.
 * **Role**: If you want to backup your lunar base or work on it with a team, you will use GitHub.
 * **Warning**: This requires some technical setup (SSH keys).

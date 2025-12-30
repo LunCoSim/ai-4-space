@@ -19,6 +19,7 @@ Your **Seed Phrase** (12-24 words) is your **MASTER KEY**.
 | Ecosystem | Recommended Wallet | Good For |
 | :--- | :--- | :--- |
 | **Ethereum & EVM** | [Rabby](https://rabby.io) | Multi-chain (Base, Polygon, etc), Security |
+| **Ethereum & EVM** | [Safe](https://safe.global) | Team management, Multisig, Max Security |
 | **Ethereum & EVM** | [MetaMask](https://metamask.io) | Universal compatibility |
 | **Solana** | [Phantom](https://phantom.app) | User experience, Solana native |
 
@@ -42,6 +43,7 @@ Your **Seed Phrase** (12-24 words) is your **MASTER KEY**.
 
 For deeper dives into specific technologies:
 - [🔷 EVM Wallets & Networks](WALLETS_EVM.MD)
+- [🔐 Safe (Multisig Wallet)](USING_SAFE.MD)
 - [🟣 Solana Ecosystem](WALLETS_SOLANA.MD)
 - [🌉 Bridging & Swapping Guide](BRIDGING_SWAPPING.MD)
 - [🏗️ Blockchain Architecture](BLOCKCHAIN_NETWORKS.MD)
