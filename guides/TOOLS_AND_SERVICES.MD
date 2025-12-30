@@ -22,3 +22,10 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **What it is**: A 3D modeling tool.
 * **Role**: If you want to design a custom rover wheel or a specific habitat shape, you build it here.
 * **Integration**: LunCoSim can import your 3D models from Blender directly into the simulation.
+
+## 5. GitHub (Advanced)
+* **What it is**: A platform to save and share your work.
+* **Role**: If you want to backup your lunar base or work on it with a team, you will use GitHub.
+* **Warning**: This requires some technical setup (SSH keys).
+* **Guide**: [How to setup Git & GitHub](ADVANCED_GIT_SETUP.MD)
+
