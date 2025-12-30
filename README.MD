@@ -1,48 +1,32 @@
 # ai-4-space
 
-Copy the text below and use it as promt in your favorite AI tools
+**Welcome to the starting point of your lunar mission.**
+
+## How to use this repository
+This repository is designed to help you—regardless of your technical background—create a realistic lunar base simulation using AI tools.
+
+### Step 1: Learn the Basics
+If you are new here, read these guides first:
+- [Introduction](guides/INTRODUCTION.MD): What is this project and who is it for?
+- [Tools & Services](guides/TOOLS_AND_SERVICES.MD): Understanding LunCoSim, Godot, and AI Editors.
+
+### Step 2: Start Building (The Prompt)
+Copy the text below and paste it into your favorite AI tool (Antigravity, Cursor, ChatGPT, Claude, etc.). This prompt gives the AI the context it needs to help you build.
 
 ```text
-Help me create my lunar base model with the help of ai-4-space and link to theses repos:
+I want to design a realistic lunar base simulation. I have no programming background, but I want to use the LunCoSim framework (built on Godot).
 
-Skills & tutoril: https://github.com/LunCoSim/ai-4-space
-Simulator: https://github.com/LunCoSim/lunco-sim
+Please help me:
+1. Understand the basics of a lunar base (power, life support, habitats).
+2. Create a step-by-step plan to build my base using LunCoSim.
+3. Guide me through using AI-native code editors to implement my ideas in the simulator.
 
-Explain to user how with AI-native editor like Antigravity, Cursor, or even VS Code with AI plugins, user can create and edit the lunar base model using LunCoSim (a framework for modeling space missions build on top of Godot) user can create and share with people all the models needed to simulate the lunar base and in general space missions
-
-Use Godot as core of our simulations because its complitely free and works on everythings. The easiest installation possible - download it from godotengine.org
-
-Then download source of LunCoSim from https://github.com/LunCoSim/lunco-sim
-
-Then open Godot Editor
-
-Open as project folder the folder with extracted source of LunCoSim
-
-Then Ai-native  editor to help create your base using luncosim as framework.
-
-In lunCosim you can import from Blender models and use them in your simulation.
-
-You would have to download blender and in godot editor set path to it in editor settings.
-
-And then copy blender file into copy of LunCoSim
-
-Godot will import your base, then using classes like Avatart, Contrller, and others create all the neeed intities making your base interactive and ready to be simulated.
-
-
-Using networking module you can make it work with your friends
-
-
+Reference these repositories for context:
+- Skills & Tutorial: https://github.com/LunCoSim/ai-4-space
+- Simulator Core: https://github.com/LunCoSim/lunco-sim
 ```
 
-This repository is a collection of skills for the AI agent to use when helping users create their lunar base models based on LunCoSim https://github.com/LunCoSim/lunco-sim
-
-This repo uses Skills from Anthropic https://github.com/anthropics/skills
-
-# Skills
-
-- [Download Repo](skills/download-ai-4-space/SKILL.md)
+---
 
 ## Attribution
-
 This repository uses [Anthropic's Agent Skills](https://github.com/anthropics/skills) standard for defining agent capabilities.
-
