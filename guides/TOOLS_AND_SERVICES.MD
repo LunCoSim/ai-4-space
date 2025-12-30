@@ -24,7 +24,13 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **Integration**: LunCoSim can import your 3D models from Blender directly into the simulation.
 * **Guide**: [How to import from Blender](BLENDER_TO_GODOT_WORKFLOW.MD)
 
-## 5. GitHub (Advanced)
+## 5. Fathom (The Meeting Recorder)
+* **What it is**: An AI-powered meeting assistant that records and transcribes your discussions.
+* **Role**: Captures all your design discussions, technical decisions, and stakeholder meetings automatically.
+* **Why use it**: Never lose important details from meetings. Create a searchable archive of all project conversations.
+* **Guide**: [How to use Fathom for meetings](USING_FATHOM.MD)
+
+## 6. GitHub (Advanced)
 * **What it is**: A platform to save and share your work.
 * **Role**: If you want to backup your lunar base or work on it with a team, you will use GitHub.
 * **Warning**: This requires some technical setup (SSH keys).
