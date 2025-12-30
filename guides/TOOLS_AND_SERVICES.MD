@@ -37,7 +37,13 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **Why use it**: Think in data flow instead of manual work. Automate everything from daily reports to team notifications.
 * **Guide**: [How to use n8n for automation](USING_N8N.MD)
 
-## 7. GitHub (Advanced)
+## 7. Crypto Wallets (The Key)
+* **What it is**: Your digital passport for blockchain interactions.
+* **Role**: Used for signing transactions, managing assets, and identifying yourself in decentralized applications.
+* **Wallets**: Rabby (EVM), MetaMask (EVM), Phantom (Solana).
+* **Guide**: [How to use Wallets](USING_WALLETS.MD)
+
+## 8. GitHub (Advanced)
 * **What it is**: A platform to save and share your work.
 * **Role**: If you want to backup your lunar base or work on it with a team, you will use GitHub.
 * **Warning**: This requires some technical setup (SSH keys).

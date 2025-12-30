@@ -28,12 +28,6 @@ Reference these repositories for context:
 - Simulator Core: https://github.com/LunCoSim/lunco-sim
 ```
 
-### Share This Project
-Tweet-sized version to share with others:
-
-```text
-Build lunar bases with AI! 🌙 LunCoSim lets you design realistic moon missions with zero coding. Just describe what you want, AI builds it. github.com/LunCoSim/ai-4-space
-```
 
 ---
 
@@ -45,6 +39,7 @@ If you are new here, read these guides to understand the project better:
 - [Using LunCoSim](guides/USING_LUNCOSIM.MD): How to open, run, and create in the simulator.
 - [Tools & Services](guides/TOOLS_AND_SERVICES.MD): Understanding LunCoSim, Godot, and AI Editors.
 - [Using Workspaces](guides/USING_WORKSPACES.MD): How to work with multiple repositories in one project.
+- [Using Wallets](guides/USING_WALLETS.MD): Setting up and using crypto wallets (MetaMask, Rabby, Phantom).
 
 ---
 
