@@ -22,6 +22,7 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **What it is**: A 3D modeling tool.
 * **Role**: If you want to design a custom rover wheel or a specific habitat shape, you build it here.
 * **Integration**: LunCoSim can import your 3D models from Blender directly into the simulation.
+* **Guide**: [How to import from Blender](BLENDER_TO_GODOT_WORKFLOW.MD)
 
 ## 5. GitHub (Advanced)
 * **What it is**: A platform to save and share your work.
