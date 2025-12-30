@@ -5,13 +5,7 @@
 ## How to use this repository
 This repository is designed to help you—regardless of your technical background—create a realistic lunar base simulation using AI tools.
 
-### Step 1: Learn the Basics
-If you are new here, read these guides first:
-- [Introduction](guides/INTRODUCTION.MD): What is this project and who is it for?
-- [Tools & Services](guides/TOOLS_AND_SERVICES.MD): Understanding LunCoSim, Godot, and AI Editors.
-- [Using Workspaces](guides/USING_WORKSPACES.MD): How to work with multiple repositories in one project.
-
-### Step 2: Start Building (The Prompt)
+### Step 1: Start Building (The Prompt)
 Copy the text below and paste it into your favorite AI tool (Antigravity, Cursor, ChatGPT, Claude, etc.). This prompt gives the AI the context it needs to help you build.
 
 ```text
@@ -26,6 +20,12 @@ Reference these repositories for context:
 - Skills & Tutorial: https://github.com/LunCoSim/ai-4-space
 - Simulator Core: https://github.com/LunCoSim/lunco-sim
 ```
+
+### Step 2: Learn the Basics
+If you are new here, read these guides to understand the project better:
+- [Introduction](guides/INTRODUCTION.MD): What is this project and who is it for?
+- [Tools & Services](guides/TOOLS_AND_SERVICES.MD): Understanding LunCoSim, Godot, and AI Editors.
+- [Using Workspaces](guides/USING_WORKSPACES.MD): How to work with multiple repositories in one project.
 
 ---
 
