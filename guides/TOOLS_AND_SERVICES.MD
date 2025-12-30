@@ -6,6 +6,7 @@ To build your lunar base, we use a specific set of tools. Think of them as the m
 * **What it is**: The foundation of our world. It's a pre-built simulation designed specifically for space missions.
 * **Role**: Provides the physics, the moon terrain, the networking (so you can play with friends), and the basic building blocks (like avatars and habitats).
 * **Link**: [LunCoSim Repository](https://github.com/LunCoSim/lunco-sim)
+* **Guide**: [How to use LunCoSim](USING_LUNCOSIM.MD)
 
 ## 2. Godot Engine (The Engine)
 * **What it is**: The "Operating System" that LunCoSim runs on.
